@@ -11,4 +11,7 @@
     <string name="android_studio_android_com">android.studio@android.com</string>
     <string name="mushroom_identification">Mushroom Identification</string>
     <string name="load">Load Image</string>
+    <string name="start">\nStart</string>
+    <string name="daftar">\nDaftar Jamur</string>
+    <string name="cari">Pencarian</string>
 </resources>

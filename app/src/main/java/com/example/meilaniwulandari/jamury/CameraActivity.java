@@ -37,7 +37,7 @@ public class CameraActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main_activity);
+        setContentView(R.layout.crop_layout);
         mCropImageView = (CropImageView) findViewById(R.id.CropImageView);
     }
 

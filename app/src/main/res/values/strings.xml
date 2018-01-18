@@ -14,4 +14,7 @@
     <string name="start">\nStart</string>
     <string name="daftar">\nDaftar Jamur</string>
     <string name="cari">Pencarian</string>
+    <string name="petunjuk">Petunjuk Penggunaan</string>
+    <string name="load_image">Load Image</string>
+    <string name="crop_image">Crop Image</string>
 </resources>

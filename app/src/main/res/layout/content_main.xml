@@ -120,12 +120,12 @@
         android:layout_height="60dp"
         android:layout_marginTop="10dp"
         android:background="#fd5656"
-        android:drawableStart="@mipmap/ic_daftar"
+        android:drawableStart="@drawable/manual"
         android:paddingBottom="16dp"
         android:paddingStart="16dp"
         android:paddingEnd="36dp"
         android:paddingTop="10dp"
-        android:text="@string/daftar"
+        android:text="@string/petunjuk"
         android:textColor="#e8e9e9"
         android:layout_marginStart="70dp"/>
 
